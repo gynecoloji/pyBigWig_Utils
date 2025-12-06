@@ -7,7 +7,7 @@ A comprehensive Python toolkit for BigWig file analysis in computational biology
 
 ## 🔬 Overview
 
-BigWig_Utils provides a robust, production-ready suite of tools for analyzing ChIP-seq, ATAC-seq, Cut&Run-seq and other genomic signal data stored in BigWig format. Designed with computational biologists in mind, it emphasizes clean code, comprehensive documentation, and biologically relevant analyses.
+pyBigWig_Utils provides a robust, production-ready suite of tools for analyzing ChIP-seq, ATAC-seq, Cut&Run-seq and other genomic signal data stored in BigWig format. Designed with computational biologists in mind, it emphasizes clean code, comprehensive documentation, and biologically relevant analyses.
 
 ### Key Features
 
